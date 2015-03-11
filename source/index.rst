@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to bav_cheklist's documentation!
-========================================
+BAV checklist 指南
+==================
 
 Contents:
 
@@ -12,14 +12,4 @@ Contents:
    :maxdepth: 2
 
    AD/caimaoy
-   caimaoy
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   update/index
