@@ -5,10 +5,11 @@
 主防添加黑、白名单
 ------------------
 
-* 添加 `HipsTest`_ 到主动防御黑，运行case，无弹窗，case直接成功
-* 添加 `HipsTest`_ 到主动防御白，运行case，无弹窗，case直接失败
+* 添加HipsTest到主动防御黑，运行case，无弹窗，case直接成功
+* 添加HipsTest到主动防御白，运行case，无弹窗，case直接失败
+* `HipsTest下载地址`_
 
-.. _HipsTest : http://client.baidu.com:8811/tool/storage
+.. _HipsTest下载地址: http://client.baidu.com:8811/tool/storage
 
 URL防护开关
 -----------
@@ -31,7 +32,6 @@ URL防护开关
 摄像头保护
 ----------
 
-* `摄像头保护下载地址`_
 * 使用方法：
     1. webcam：灰文件，开启摄像头
     2. 打开bav摄像头保护功能
@@ -42,4 +42,6 @@ URL防护开关
     * 如果不弹窗，先摄像头HI一下你的小伙伴
     * 图文并茂见下载地址
 
-.. _摄像头保护下载地址 : http://client.baidu.com:8811/tool/storage
+* `摄像头保护下载地址`_
+
+.. _摄像头保护下载地址: http://client.baidu.com:8811/tool/storage
